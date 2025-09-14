@@ -34,6 +34,7 @@
 ## 📫 How to reach me
 
 - [GitHub](https://github.com/Brench-maina)
+- [LinkedIn](www.linkedin.com/in/brench-maina-b5040530b)
   
 
 ---
