@@ -1,4 +1,4 @@
-# Hi there, I'm Brench Maina 👋
+# Hi I'm Brench Maina 👋
 
 🎓 I'm a student currently pursuing Software Engineering with a passion for building web apps and learning new technologies.  
 
